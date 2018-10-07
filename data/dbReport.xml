@@ -1,0 +1,6 @@
+<Employees>
+<Manager fName="Boss" lName="Boss" empID="1" start="Mon Oct 01 00:00:00 EDT 2018" billableHours="10.0">
+<Subordinate fName="Sub" lName="Sub" empID="2" start="Thu Oct 04 00:00:00 EDT 2018" billableHours="10.0">
+</Subordinate>
+</Manager>
+</Employees>

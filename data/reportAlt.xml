@@ -1,0 +1,16 @@
+<Employees>
+<Manager fName="Boss1" lName="Boss1" empID="1" start="Wed Jan 10 00:00:00 EST 2018" billableHours="12.0">
+<Subordinate fName="Sub1" lName="Sub1" empID="2" start="Wed Jan 10 00:00:00 EST 2018" billableHours="12.0">
+</Subordinate>
+<Subordinate fName="Sub2" lName="Sub2" empID="3" start="Wed Jan 10 00:00:00 EST 2018" billableHours="12.0">
+</Subordinate>
+<Subordinate fName="Sub3" lName="Sub3" empID="4" start="Wed Jan 10 00:00:00 EST 2018" billableHours="12.0">
+</Subordinate>
+</Manager>
+<Manager fName="Boss2" lName="Boss2" empID="5" start="Wed Jan 10 00:00:00 EST 2018" billableHours="12.0">
+<Subordinate fName="Sub4" lName="Sub4" empID="6" start="Wed Jan 10 00:00:00 EST 2018" billableHours="12.0">
+</Subordinate>
+<Subordinate fName="Sub5" lName="Sub5" empID="7" start="Wed Jan 10 00:00:00 EST 2018" billableHours="12.0">
+</Subordinate>
+</Manager>
+</Employees>

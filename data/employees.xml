@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Employee>
+	<Manager fName="Boss1" lName="Boss1" empID="1" start="10/1/2018" billableHours="12">
+		<Sub fName="Sub1" lName="Sub1" empID="2" start="10/1/2018" billableHours="12"></Sub>
+		<Sub fName="Sub2" lName="Sub2" empID="3" start="10/1/2018" billableHours="12"></Sub>
+		<Sub fName="Sub3" lName="Sub3" empID="4" start="10/1/2018" billableHours="12"></Sub>
+	</Manager>
+	<Manager fName="Boss2" lName="Boss2" empID="5" start="10/1/2018" billableHours="12">
+		<Sub fName="Sub4" lName="Sub4" empID="6" start="10/1/2018" billableHours="12"></Sub>
+		<Sub fName="Sub5" lName="Sub5" empID="7" start="10/1/2018" billableHours="12"></Sub>
+	</Manager>
+</Employee>
